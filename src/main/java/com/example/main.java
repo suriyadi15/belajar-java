@@ -37,6 +37,9 @@ public class main {
             System.out.println(key + " : " + numberMaps.get(key).toString());
         }*/
 
+        /*Cat c = new Cat();
+        c.test();*/
+
         System.out.println("Hello World");
     }
 }
