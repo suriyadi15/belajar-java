@@ -40,6 +40,10 @@ public class main {
         /*Cat c = new Cat();
         c.test();*/
 
+        /*Atm.setS("a");
+        Atm.setS("b");
+        Atm.getS();*/
+
         System.out.println("Hello World");
     }
 }
